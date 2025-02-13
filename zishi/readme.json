@@ -1,0 +1,19 @@
+{
+    "all_class_images": 400,
+    "all_class_name": "zishi",
+    "all_class_sum": 2,
+    "class_detail": [
+        {
+            "class_label": 1,
+            "class_name": "zhanli",
+            "class_test_images": 20,
+            "class_trainer_images": 180
+        },
+        {
+            "class_label": 0,
+            "class_name": "tangwo",
+            "class_test_images": 20,
+            "class_trainer_images": 180
+        }
+    ]
+}
